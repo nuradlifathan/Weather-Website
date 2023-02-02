@@ -5,3 +5,6 @@ Simple Weather check using API's and Search by Location
 - HTML
 - CSS
 - Javascript
+
+# What's Next
+Refactor using React.js and Material UI / Tailwind CSS
