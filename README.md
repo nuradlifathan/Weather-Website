@@ -1,10 +1,10 @@
 # Weather-Website
-Simple Weather check using [OpenWeather] (https://openweathermap.org/) API's .
+Simple Weather check using - [OpenWeather] (https://openweathermap.org/) API's .
 
-# Tech Stack
-- HTML
-- CSS
+## Tech Stack
+- HTML 5
+- CSS 3
 - Javascript
 
-# What's Next
+## What's Next
 Refactor using React.js and Material UI / Tailwind CSS
