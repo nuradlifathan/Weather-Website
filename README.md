@@ -1,5 +1,5 @@
 # Weather-Website
-Simple Weather check using API's and Search by Location
+Simple Weather check using [OpenWeather] (https://openweathermap.org/) API's .
 
 # Tech Stack
 - HTML
