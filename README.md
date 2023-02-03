@@ -1,5 +1,6 @@
 # Weather-Website
-Simple Weather check using - [OpenWeather] (https://openweathermap.org/) API's .
+Simple Weather check using 
+- [OpenWeather](https://openweathermap.org/)
 
 ## Tech Stack
 - HTML 5
