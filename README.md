@@ -1,4 +1,4 @@
-# Weather-Website
+# Cloud Checker
 Simple Weather check using [OpenWeather](https://openweathermap.org/) API's .
 
 ## Tech Stack
