@@ -1,5 +1,6 @@
 # Cloud Checker - Website
-Simple Weather check using [OpenWeather](https://openweathermap.org/) API's .
+A self-developed project for learning purposes 
+Simple Weather check using [OpenWeather](https://openweathermap.org/) API's 
 
 ## Tech Stack
 - [HTML 5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
