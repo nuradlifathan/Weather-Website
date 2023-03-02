@@ -55,6 +55,7 @@ body {
 }
 
 .search-box button {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   cursor: pointer;
   width: 50px;
   height: 50px;
@@ -81,11 +82,13 @@ body {
 }
 
 .weather-box img {
+  border-radius: 50%;
   width: 60%;
   margin-top: 30px;
 }
 
 .weather-box .temperature {
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   position: relative;
   color: #06283d;
   font-size: 4rem;
@@ -116,6 +119,8 @@ body {
 
 .weather-details .humidity,
 .weather-details .wind {
+  background-color: #f9f9f9;
+  border-radius: 8px;
   display: flex;
   align-items: center;
   width: 50%;
@@ -152,6 +157,7 @@ body {
 }
 
 .not-found {
+  animation: fadeIn 0.5s forwards 1s;
   width: 100%;
   text-align: center;
   margin-top: 50px;
@@ -161,7 +167,7 @@ body {
 }
 
 .not-found img {
-  width: 70%;
+  width: 50%;
 }
 
 .not-found p {
