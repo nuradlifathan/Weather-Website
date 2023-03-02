@@ -5,7 +5,7 @@ const weatherDetails = document.querySelector(".weather-details")
 const notFound = document.querySelector(".not-found")
 
 search.addEventListener("click", () => {
-  const APIkey = process.env.APIKEY
+  const APIkey = "dcb7dad3f3d4e95de47920c688f32f37"
   const kota = document.querySelector(".search-box input").value
 
   if (kota === "") return
